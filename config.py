@@ -1,4 +1,5 @@
 # parametre de l'ecran
+#test 1 git
 screen_width = 800
 screen_height = 800
 
